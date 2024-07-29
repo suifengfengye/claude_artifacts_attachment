@@ -1,4 +1,6 @@
+const path = require('path')
+
 exports.dist = {
-  path: '这里补充部署路径',
+  path: path.join(__dirname, '../../artifacts-static'),
 }
 
