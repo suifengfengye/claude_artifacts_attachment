@@ -1,0 +1,18 @@
+{
+  "name": "artifacts-preview-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^3.27.1",
+    "tar": "^7.4.3"
+  },
+  "devDependencies": {
+    "egg-bin": "^6.10.0"
+  }
+}
